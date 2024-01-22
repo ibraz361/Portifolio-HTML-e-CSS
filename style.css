@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    /*Adicionar mais estilos conforme necessário*/
+}
+
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    /*Adicionar mais estilos conforme necessário*/
+}
+
+button {
+    background-color: ciano;
+    color: white;
+    border: none;
+    /*Adicionar mais estilos conforme necessário*/
+}
